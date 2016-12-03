@@ -8,7 +8,7 @@
 int main()
 {
 
-	std::cout << "Test \n";
+	std::cout << "Test Branch\n";
 
 	system("Pause");
     return 0;
